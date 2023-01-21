@@ -1,0 +1,29 @@
+h1{
+text-align: center;
+background-color: blueviolet;
+color:aliceblue;
+margin:10px;
+}
+#Helloimg{
+    width:70%;
+    height:70%;
+    margin: 10px auto;
+    display:block;
+    transition: transform 2s ease;
+}
+#Helloimg:hover{
+    transform:scale(1.02);
+}
+#ButtonF{
+    width:200px;
+    height:100px;
+    background-color: darkmagenta;
+    color:white;
+    text-align: center;
+    font-size: x-large; 
+    margin:10px;
+}
+#textP{
+    color:aliceblue;
+    font-size: 30px;
+}
